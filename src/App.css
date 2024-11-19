@@ -1,0 +1,22 @@
+button{
+    padding: 10px 20px;
+    background-color: #ee0cb6;
+    border: 1px solid #ddd;
+    margin:10px;
+     cursor:pointer;
+     border-radius:20px;
+}
+.App{
+    margin:40px auto;
+    text-align:center;
+    border:3px solid blue;
+    height:20rem;
+    width:20em;
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0px 0px 10px 10px #ddd;
+    background:url("assets/2.jpg");
+    color:aqua;
+    align-items: center;
+    justify-content: center;
+}
